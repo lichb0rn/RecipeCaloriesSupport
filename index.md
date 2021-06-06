@@ -11,3 +11,8 @@ One of the problems that I encountered while using other applications is the ina
 My app solves that problem. You can add the exact amount of ingredients as you cook recipes and then add the results to your favorite calorie tracker.
 
 RecipeCalories does not replace calorie trackers, but complements them.
+
+
+### Privacy policy
+
+You can read our privacy policy [here](policy.md).
